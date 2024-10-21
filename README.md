@@ -49,14 +49,6 @@ Doğrulama mail örneği:
 
 <img src="https://img001.prntscr.com/file/img001/OzqfY7IQS5yqfyPrIPgFHw.png" width="100%" center />
 
------------------------------------------
-
-### Demo Sayfası
-Aşağıdaki bilgilerle demo sitesine giderek deneyebilirsiniz.
-
-**Link:** https://hankagan.com/php-uyelik-sistemi/</br>
-**Email:** admin@mail.com</br>
-**Şifre:** 12345
 
 -----------------------------------------
 
