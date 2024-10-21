@@ -49,10 +49,3 @@ Doğrulama mail örneği:
 
 <img src="https://img001.prntscr.com/file/img001/OzqfY7IQS5yqfyPrIPgFHw.png" width="100%" center />
 
-
------------------------------------------
-
-### Uyarı
-Bu sistem birçok güvenlik açığı bulunan başlangıç seviye bir projedir. Sizlere örnek olması amacıyla yazılmıştır.
-
-<b><a href="https://hknsoft.com/">hknsoft</a></b> &copy; 2020-2023
